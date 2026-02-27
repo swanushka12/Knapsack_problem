@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("reg.csv")
+df = pd.read_csv("вфеф.csv")
 
 plt.figure(figsize=(10,7))
 
